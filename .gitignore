@@ -1,1 +1,10 @@
+/target/
+
 /.metadata/
+/.classpath/
+/.springBeans/
+/.project/
+/.settings/
+/.gradle/
+/build/
+
